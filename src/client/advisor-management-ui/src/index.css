@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center; /* Center align the content */
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9; /* Light background for contrast */
+}
+
+h1 {
+  margin-bottom: 20px; /* Adds space below the title */
+  color: #333; /* Darker color for the title */
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  gap: 10px; /* Adds space between form elements */
+  margin-bottom: 30px;
+}
+
+input[type="text"] {
+  padding: 8px 12px;
+  border: 1px solid #ccc;
+  border-radius: 5px; /* Rounds the corners */
+  font-size: 14px;
+  width: 200px; /* Sets a standard width for inputs */
+}
+
+button {
+  padding: 8px 15px;
+  background-color: #71aae6; /* Blue button background */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
+
+table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 80%; /* Adjust table width */
+  background-color: #fff; /* White background */
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+  padding: 12px 15px;
+  text-align: center;
+  border: 1px solid #ddd; /* Adds borders for cells */
+}
+
+th {
+  background-color: #404346; /* Blue header background */
+  color: white; /* White text for headers */
+}
+
+tr:nth-child(even) {
+  background-color: #f2f2f2; /* Alternate row color */
+}
