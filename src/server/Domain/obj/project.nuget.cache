@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "alvTj0xdRc+FzcP+vuvfPmN6OZeUGdJlw9XfZTVjAJvMiEoNfvMMXfbuHDrHdctim6J6TEFWZKCGc8nZGdH5ng==",
+  "success": true,
+  "projectFilePath": "C:\\Learning_React\\AdvisorManagementApp\\src\\server\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\skale\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\skale\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\skale\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

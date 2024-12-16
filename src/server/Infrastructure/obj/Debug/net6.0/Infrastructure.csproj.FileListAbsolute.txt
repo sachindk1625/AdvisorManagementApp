@@ -1,0 +1,15 @@
+C:\Learning_React\AdvisorManagementApp\src\server\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+C:\Learning_React\AdvisorManagementApp\src\server\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+C:\Learning_React\AdvisorManagementApp\src\server\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+C:\Learning_React\AdvisorManagementApp\src\server\Infrastructure\bin\Debug\net6.0\Domain.dll
+C:\Learning_React\AdvisorManagementApp\src\server\Infrastructure\bin\Debug\net6.0\Domain.pdb
+C:\Learning_React\AdvisorManagementApp\src\server\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Learning_React\AdvisorManagementApp\src\server\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning_React\AdvisorManagementApp\src\server\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Learning_React\AdvisorManagementApp\src\server\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+C:\Learning_React\AdvisorManagementApp\src\server\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Learning_React\AdvisorManagementApp\src\server\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+C:\Learning_React\AdvisorManagementApp\src\server\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+C:\Learning_React\AdvisorManagementApp\src\server\Infrastructure\obj\Debug\net6.0\refint\Infrastructure.dll
+C:\Learning_React\AdvisorManagementApp\src\server\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
+C:\Learning_React\AdvisorManagementApp\src\server\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll

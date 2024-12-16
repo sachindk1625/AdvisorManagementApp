@@ -1,0 +1,6 @@
+{
+  "Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Learning_React\\AdvisorManagementApp\\src\\server\\Application",
+  "Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Learning_React\\AdvisorManagementApp\\src\\server\\Domain",
+  "Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Learning_React\\AdvisorManagementApp\\src\\server\\Infrastructure",
+  "WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Learning_React\\AdvisorManagementApp\\src\\server\\WebApi"
+}

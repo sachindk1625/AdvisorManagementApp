@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6786a707_002D5fb6_002D48b5_002Dbddf_002D322c7b8a41be/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateAdvisorCommandTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5506C191-9C44-489C-AE47-4D75E23FAEB3::net6.0::Application.UnitTests.Commands.CreateAdvisorCommandTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5506C191-9C44-489C-AE47-4D75E23FAEB3::net6.0::Application.UnitTests.Commands.DeleteAdvisorCommandTests.Should_Remove_Advisor_And_Return_True_When_Advisor_Found&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5506C191-9C44-489C-AE47-4D75E23FAEB3::net6.0::Application.UnitTests.Commands.DeleteAdvisorCommandTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5506C191-9C44-489C-AE47-4D75E23FAEB3::net6.0::Application.UnitTests.Commands.UpdateAdvisorCommandTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5506C191-9C44-489C-AE47-4D75E23FAEB3::net6.0::Application.UnitTests.Queries.GetAdvisorTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1A31F4C0-01B1-40D4-B749-F0A122D047BB::net6.0::IntegrationTests.AdvisorsControllerIntegrationTests.Test1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1A31F4C0-01B1-40D4-B749-F0A122D047BB::net6.0::IntegrationTests.AdvisorsControllerIntegrationTests&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

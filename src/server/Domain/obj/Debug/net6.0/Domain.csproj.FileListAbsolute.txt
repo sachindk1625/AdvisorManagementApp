@@ -1,0 +1,11 @@
+C:\Learning_React\AdvisorManagementApp\src\server\Domain\bin\Debug\net6.0\Domain.deps.json
+C:\Learning_React\AdvisorManagementApp\src\server\Domain\bin\Debug\net6.0\Domain.dll
+C:\Learning_React\AdvisorManagementApp\src\server\Domain\bin\Debug\net6.0\Domain.pdb
+C:\Learning_React\AdvisorManagementApp\src\server\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning_React\AdvisorManagementApp\src\server\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+C:\Learning_React\AdvisorManagementApp\src\server\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+C:\Learning_React\AdvisorManagementApp\src\server\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+C:\Learning_React\AdvisorManagementApp\src\server\Domain\obj\Debug\net6.0\Domain.dll
+C:\Learning_React\AdvisorManagementApp\src\server\Domain\obj\Debug\net6.0\refint\Domain.dll
+C:\Learning_React\AdvisorManagementApp\src\server\Domain\obj\Debug\net6.0\Domain.pdb
+C:\Learning_React\AdvisorManagementApp\src\server\Domain\obj\Debug\net6.0\ref\Domain.dll
